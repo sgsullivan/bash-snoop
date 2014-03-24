@@ -1,2 +1,1 @@
-bash-snoop
-==========
+http://ssullivan.org/projects/bash-snoop
